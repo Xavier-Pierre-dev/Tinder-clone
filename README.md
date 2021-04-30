@@ -8,9 +8,13 @@ ___
 ___
 
 <table style="width:100%" align="center" width="100%" >
+  
+  ## Mobile view :
+
 
 <tr>
 <td>
+  
               
 ![Alt_text](./mobile_vue_1.JPG "screenshot")
               
