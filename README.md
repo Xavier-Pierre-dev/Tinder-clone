@@ -2,10 +2,13 @@
 
 <div align="center">
   
-![Alt text](./PC_vue.JPG "screenshot")
+  ## PC view :
+  
+![image](https://user-images.githubusercontent.com/81990309/116741280-6c5cc480-a9f6-11eb-8f4a-7344c37c9335.png)
 
-___
-___
+
+
+
 
 <table style="width:100%" align="center" width="100%" >
   
